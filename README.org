@@ -1,0 +1,10 @@
+* cubic-bezier
+
+Mirror of https://git.mfiano.net/mfiano/cubic-bezier
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mfiano/cubic-bezier.git   |
+| commit  | a5fd732  |
+| systems | cubic-bezier |
+|---------+-------------------------------------------|
+
